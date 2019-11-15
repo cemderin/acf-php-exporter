@@ -1,6 +1,7 @@
 {
   "name": "wy/acf-php-exporter",
   "version": "1.1.0",
+  "description": "PHP Exporter for ACF groups",
   "license": "MIT",
   "authors": [
     {
