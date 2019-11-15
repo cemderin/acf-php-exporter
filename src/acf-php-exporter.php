@@ -1,13 +1,13 @@
 <?php
-	
-	/**
-	 * Plugin name: ACF PHP Exporter
-	 * Plugin URI: https://github.com/hypress
-	 * Description: PHP exporter for ACF field groups
-	 * Version: 1.1.0
-	 * Author: Cem Derin (wysiwyg software design GmbH)
-	 * Author URI: https://github.com/wysiwyg-software-design/acf-php-exporter
-	 */
+
+/**
+ * Plugin name: ACF PHP Exporter
+ * Plugin URI: https://github.com/wysiwyg-software-design/acf-php-exporter
+ * Description: PHP exporter for ACF field groups
+ * Version: 1.1.0
+ * Author: Cem Derin (wysiwyg software design GmbH)
+ * Author URI: https://wysiwyg.de
+ */
 
 /**
  * By default, the field groups will be exported to the current theme directory `acf-php/field-groups.php`. This can be
